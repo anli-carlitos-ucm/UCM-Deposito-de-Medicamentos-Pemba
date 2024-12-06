@@ -1,0 +1,101 @@
+Data,ID_Produto,Nome_Produto,Categoria,ID_Departamento,Nome_Departamento,Quantidade_Consumida,Custo_Unitário,Fornecedor,Localizacao,Data_Entrada,Data_Vencimento,Lote,Quantidade_Em_Estoque,Quantidade_Em_Pedido,Custo_Total,Custo_Total_Anual,Data_Compra,Fornecedor_Contato,Status_Produto
+20/04/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D003,Urgencia,101,2.89,Fornecedor A,Beira,02/04/2024,28/11/2024,L2684,231,81,1503.74,2111.24,02/04/2024,+258 84 4971793,Em Estoque
+15/02/2024,P002,Amoxicilina 500mg,Antibiotico,D003,Urgencia,181,8.78,Fornecedor D,Beira,10/01/2024,07/09/2024,L5371,131,99,342.1,4529.49,10/01/2024,+258 84 4731818,Em Estoque
+27/04/2024,P002,Amoxicilina 500mg,Antibiotico,D002,Pediatria,178,2.74,Fornecedor A,Nampula,26/03/2024,01/09/2025,L5564,492,18,503.4,3493.8,26/03/2024,+258 84 9996207,Esgotado
+08/01/2024,P002,Amoxicilina 500mg,Antibiotico,D005,Laboratorio,19,1.98,Fornecedor C,Pemba,22/12/2023,30/03/2025,L6663,423,50,1039.4,1553.06,22/12/2023,+258 84 4188992,Esgotado
+12/01/2024,P001,Paracetamol 500mg,Analgesico,D005,Laboratorio,103,4.88,Fornecedor B,Nampula,18/11/2023,29/09/2025,L6143,389,25,701.08,3932.13,18/11/2023,+258 84 7751158,Perto de Vencer
+16/03/2024,P002,Amoxicilina 500mg,Antibiotico,D004,Farmacia,183,7.73,Fornecedor D,Beira,31/01/2024,20/01/2025,L5930,257,80,186.74,2955.48,31/01/2024,+258 84 6406444,Esgotado
+23/04/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D004,Farmacia,178,1.76,Fornecedor B,Nampula,16/03/2024,26/05/2025,L2530,469,40,389.81,1398.04,16/03/2024,+258 84 1775337,Em Estoque
+01/05/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D004,Farmacia,193,7.27,Fornecedor B,Pemba,13/03/2024,10/01/2025,L7547,174,28,460.73,7454.59,13/03/2024,+258 84 2788238,Esgotado
+26/02/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D001,Clinica Geral,41,5.11,Fornecedor B,Pemba,05/02/2024,05/02/2026,L9702,336,86,1251.1,4763.9,05/02/2024,+258 84 9468772,Esgotado
+20/05/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D004,Farmacia,73,8.56,Fornecedor C,Nampula,12/04/2024,27/04/2025,L9540,298,90,385.32,4000.41,12/04/2024,+258 84 4934149,Esgotado
+26/03/2024,P002,Amoxicilina 500mg,Antibiotico,D002,Pediatria,108,7.25,Fornecedor B,Beira,25/02/2024,13/12/2024,L2052,262,62,788.39,1111,25/02/2024,+258 84 8048838,Esgotado
+29/05/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D004,Farmacia,11,9.48,Fornecedor D,Nampula,05/04/2024,15/12/2024,L7389,486,63,1445.07,6386.88,05/04/2024,+258 84 4700025,Esgotado
+26/02/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D001,Clinica Geral,96,7.02,Fornecedor D,Pemba,30/01/2024,13/11/2025,L3704,480,69,805.77,960.61,30/01/2024,+258 84 7610562,Perto de Vencer
+24/05/2024,P001,Paracetamol 500mg,Analgesico,D004,Farmacia,128,2.64,Fornecedor B,Nampula,02/04/2024,17/12/2024,L7211,217,37,654.31,7927,02/04/2024,+258 84 5668371,Esgotado
+05/03/2024,P001,Paracetamol 500mg,Analgesico,D005,Laboratorio,99,3.02,Fornecedor A,Maputo,19/02/2024,26/12/2025,L1659,436,13,315.75,3361.93,19/02/2024,+258 84 5002120,Em Estoque
+01/05/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D002,Pediatria,189,3.31,Fornecedor D,Nampula,10/03/2024,22/02/2025,L3749,360,87,632.01,5644.89,10/03/2024,+258 84 2813596,Perto de Vencer
+07/01/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D002,Pediatria,161,7.22,Fornecedor A,Beira,09/12/2023,24/07/2025,L2669,406,48,653.28,6346.49,09/12/2023,+258 84 6825112,Perto de Vencer
+19/04/2024,P001,Paracetamol 500mg,Analgesico,D005,Laboratorio,13,8.65,Fornecedor C,Pemba,27/02/2024,30/10/2025,L2729,271,56,1230.08,1866.54,27/02/2024,+258 84 9753457,Perto de Vencer
+10/03/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D004,Farmacia,92,8.67,Fornecedor C,Maputo,21/01/2024,14/01/2026,L5569,280,41,1029.61,3713.98,21/01/2024,+258 84 1481506,Esgotado
+24/03/2024,P002,Amoxicilina 500mg,Antibiotico,D003,Urgencia,97,3.52,Fornecedor C,Nampula,03/03/2024,01/02/2026,L1166,314,34,225.23,3821.22,03/03/2024,+258 84 5031966,Perto de Vencer
+01/05/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D001,Clinica Geral,85,2.99,Fornecedor A,Beira,11/03/2024,14/03/2026,L6016,389,84,757.35,3156.33,11/03/2024,+258 84 6549757,Esgotado
+28/06/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D003,Urgencia,40,7.49,Fornecedor B,Nampula,20/05/2024,28/09/2025,L2958,430,78,264.22,4704.14,20/05/2024,+258 84 9801946,Perto de Vencer
+13/03/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D002,Pediatria,55,3.72,Fornecedor C,Beira,26/02/2024,26/03/2025,L5494,73,16,693.18,2100.19,26/02/2024,+258 84 9235577,Em Estoque
+04/01/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D004,Farmacia,97,2.66,Fornecedor D,Maputo,19/11/2023,19/04/2025,L5136,491,71,663.52,3825.13,19/11/2023,+258 84 1899411,Em Estoque
+08/02/2024,P001,Paracetamol 500mg,Analgesico,D002,Pediatria,152,7.88,Fornecedor A,Beira,24/12/2023,13/06/2025,L9561,244,67,599.22,7938.14,24/12/2023,+258 84 6123430,Perto de Vencer
+07/06/2024,P002,Amoxicilina 500mg,Antibiotico,D002,Pediatria,179,1.73,Fornecedor C,Beira,25/05/2024,15/03/2025,L3847,332,19,92.17,5259.17,25/05/2024,+258 84 8883823,Esgotado
+09/01/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D004,Farmacia,185,3.1,Fornecedor A,Nampula,16/12/2023,28/04/2025,L4241,267,24,571.4,5285.2,16/12/2023,+258 84 3386328,Em Estoque
+16/01/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D005,Laboratorio,122,2.12,Fornecedor C,Nampula,27/12/2023,24/05/2025,L7594,189,74,1023.5,3452.84,27/12/2023,+258 84 8248238,Perto de Vencer
+23/03/2024,P001,Paracetamol 500mg,Analgesico,D001,Clinica Geral,182,8.52,Fornecedor B,Maputo,04/02/2024,02/06/2025,L5415,345,15,492.04,4148.39,04/02/2024,+258 84 5666692,Em Estoque
+29/05/2024,P001,Paracetamol 500mg,Analgesico,D004,Farmacia,114,4,Fornecedor C,Maputo,22/04/2024,12/04/2026,L3634,218,62,632.54,4525.8,22/04/2024,+258 84 1615675,Esgotado
+23/01/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D001,Clinica Geral,141,8.42,Fornecedor D,Maputo,24/12/2023,05/04/2025,L9889,286,62,169.36,4523.54,24/12/2023,+258 84 9363326,Perto de Vencer
+23/04/2024,P002,Amoxicilina 500mg,Antibiotico,D003,Urgencia,83,4.94,Fornecedor B,Pemba,25/02/2024,11/12/2024,L2989,64,90,820.07,3926.03,25/02/2024,+258 84 7844947,Em Estoque
+27/02/2024,P001,Paracetamol 500mg,Analgesico,D002,Pediatria,193,3.63,Fornecedor D,Nampula,10/02/2024,10/12/2025,L7807,477,71,542.91,1799.99,10/02/2024,+258 84 4197911,Perto de Vencer
+10/05/2024,P001,Paracetamol 500mg,Analgesico,D003,Urgencia,97,9.41,Fornecedor D,Nampula,14/03/2024,25/03/2025,L1042,194,48,1243.86,4525.46,14/03/2024,+258 84 3493017,Esgotado
+17/05/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D005,Laboratorio,126,9.4,Fornecedor D,Beira,07/04/2024,01/11/2025,L4912,342,59,948.75,988.91,07/04/2024,+258 84 8935224,Perto de Vencer
+07/04/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D001,Clinica Geral,138,9.69,Fornecedor B,Nampula,04/03/2024,08/03/2025,L2644,497,66,430.02,834.25,04/03/2024,+258 84 3418526,Esgotado
+16/06/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D003,Urgencia,169,7.23,Fornecedor C,Maputo,28/05/2024,27/02/2025,L6383,486,96,822.14,4396.47,28/05/2024,+258 84 9186400,Perto de Vencer
+10/01/2024,P002,Amoxicilina 500mg,Antibiotico,D003,Urgencia,33,4.91,Fornecedor B,Maputo,22/11/2023,16/09/2024,L2646,277,31,1150.48,2049.83,22/11/2023,+258 84 1941524,Esgotado
+01/04/2024,P002,Amoxicilina 500mg,Antibiotico,D002,Pediatria,154,7.14,Fornecedor D,Beira,28/02/2024,13/12/2025,L3785,139,20,966.88,3413.42,28/02/2024,+258 84 3401116,Em Estoque
+28/04/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D003,Urgencia,129,9.11,Fornecedor A,Beira,09/03/2024,12/07/2025,L2210,276,54,738.48,4780.23,09/03/2024,+258 84 5195951,Esgotado
+18/03/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D001,Clinica Geral,107,6.15,Fornecedor B,Nampula,25/02/2024,12/10/2025,L5837,61,94,524.02,6931.84,25/02/2024,+258 84 1822825,Perto de Vencer
+07/05/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D003,Urgencia,172,2.71,Fornecedor B,Nampula,09/04/2024,26/06/2025,L3240,371,22,226.82,942.7,09/04/2024,+258 84 7121355,Perto de Vencer
+03/02/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D004,Farmacia,61,2.19,Fornecedor B,Nampula,19/01/2024,30/05/2025,L9697,306,44,304.77,8756.87,19/01/2024,+258 84 5951651,Perto de Vencer
+27/03/2024,P001,Paracetamol 500mg,Analgesico,D002,Pediatria,183,7.52,Fornecedor B,Pemba,10/03/2024,15/01/2026,L6992,96,60,179.15,2867.4,10/03/2024,+258 84 5398338,Perto de Vencer
+07/04/2024,P001,Paracetamol 500mg,Analgesico,D002,Pediatria,16,6.58,Fornecedor D,Nampula,17/02/2024,19/10/2025,L4626,381,18,1542.99,4475.42,17/02/2024,+258 84 2957497,Em Estoque
+12/01/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D001,Clinica Geral,70,8.99,Fornecedor A,Beira,31/12/2023,17/05/2025,L7367,282,57,897.16,6634.67,31/12/2023,+258 84 7960607,Perto de Vencer
+26/01/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D001,Clinica Geral,65,4.99,Fornecedor C,Beira,16/12/2023,14/09/2025,L6942,100,97,849.63,6803.44,16/12/2023,+258 84 2015861,Esgotado
+11/03/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D001,Clinica Geral,174,6.76,Fornecedor B,Maputo,18/02/2024,10/01/2025,L1828,452,52,1108.73,5485.24,18/02/2024,+258 84 2151087,Perto de Vencer
+23/02/2024,P002,Amoxicilina 500mg,Antibiotico,D003,Urgencia,162,1.03,Fornecedor B,Beira,07/01/2024,30/03/2025,L3129,326,42,187,1161.8,07/01/2024,+258 84 1249314,Esgotado
+01/03/2024,P001,Paracetamol 500mg,Analgesico,D002,Pediatria,23,2.14,Fornecedor C,Pemba,14/01/2024,25/07/2025,L9619,108,18,860.9,3849.11,14/01/2024,+258 84 2829622,Esgotado
+08/05/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D003,Urgencia,174,9.68,Fornecedor D,Maputo,14/04/2024,18/12/2024,L8847,483,61,1140.81,5566.12,14/04/2024,+258 84 8441741,Em Estoque
+21/01/2024,P001,Paracetamol 500mg,Analgesico,D002,Pediatria,169,6.7,Fornecedor C,Nampula,22/12/2023,17/12/2024,L7240,355,77,635.43,3941.28,22/12/2023,+258 84 2919549,Perto de Vencer
+15/06/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D004,Farmacia,115,4.05,Fornecedor B,Pemba,17/04/2024,20/07/2025,L7532,262,22,629.31,2766.97,17/04/2024,+258 84 3560856,Perto de Vencer
+01/05/2024,P001,Paracetamol 500mg,Analgesico,D001,Clinica Geral,34,7.7,Fornecedor D,Nampula,17/04/2024,29/01/2025,L3131,334,17,1921.92,3121.88,17/04/2024,+258 84 3050700,Esgotado
+31/03/2024,P001,Paracetamol 500mg,Analgesico,D003,Urgencia,100,1.93,Fornecedor C,Beira,08/02/2024,04/12/2025,L3535,386,71,922.93,5845.08,08/02/2024,+258 84 7166651,Em Estoque
+12/03/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D005,Laboratorio,165,9.36,Fornecedor A,Nampula,26/01/2024,27/04/2025,L1474,142,44,1198.91,716.31,26/01/2024,+258 84 3403361,Perto de Vencer
+17/06/2024,P002,Amoxicilina 500mg,Antibiotico,D001,Clinica Geral,145,2.94,Fornecedor A,Pemba,13/05/2024,23/02/2025,L8432,224,30,547.88,5322.35,13/05/2024,+258 84 2425342,Em Estoque
+09/02/2024,P001,Paracetamol 500mg,Analgesico,D003,Urgencia,179,4.82,Fornecedor D,Pemba,20/01/2024,26/09/2024,L7785,189,37,366.41,1438.57,20/01/2024,+258 84 9164342,Perto de Vencer
+19/06/2024,P002,Amoxicilina 500mg,Antibiotico,D004,Farmacia,11,2.84,Fornecedor A,Beira,21/05/2024,31/01/2025,L3248,441,42,490.18,2754.66,21/05/2024,+258 84 8225192,Em Estoque
+03/02/2024,P002,Amoxicilina 500mg,Antibiotico,D005,Laboratorio,28,4.57,Fornecedor C,Maputo,31/12/2023,28/01/2026,L8147,59,68,604.37,3861.67,31/12/2023,+258 84 7785090,Perto de Vencer
+12/06/2024,P001,Paracetamol 500mg,Analgesico,D004,Farmacia,93,2.55,Fornecedor A,Pemba,07/05/2024,01/10/2025,L6928,95,65,245.62,3687.84,07/05/2024,+258 84 2319479,Esgotado
+20/03/2024,P002,Amoxicilina 500mg,Antibiotico,D003,Urgencia,29,5.59,Fornecedor B,Maputo,23/01/2024,29/08/2025,L9693,311,34,578.23,8286.83,23/01/2024,+258 84 3477824,Em Estoque
+27/01/2024,P002,Amoxicilina 500mg,Antibiotico,D002,Pediatria,177,1.68,Fornecedor B,Pemba,08/01/2024,13/04/2025,L8601,436,82,997.95,8697.1,08/01/2024,+258 84 6422534,Perto de Vencer
+21/03/2024,P001,Paracetamol 500mg,Analgesico,D004,Farmacia,171,3.73,Fornecedor D,Nampula,02/03/2024,11/12/2025,L1920,230,74,257.97,978.42,02/03/2024,+258 84 7186390,Esgotado
+20/01/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D005,Laboratorio,128,6.22,Fornecedor D,Maputo,30/11/2023,18/10/2024,L8368,464,83,381.59,4095.64,30/11/2023,+258 84 2038068,Esgotado
+27/01/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D002,Pediatria,73,7.37,Fornecedor A,Pemba,27/12/2023,19/10/2024,L9586,317,88,384.76,3436.11,27/12/2023,+258 84 7858012,Esgotado
+22/06/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D001,Clinica Geral,34,6.02,Fornecedor C,Pemba,05/05/2024,10/02/2025,L5655,179,94,352.02,5564.06,05/05/2024,+258 84 6869018,Esgotado
+16/06/2024,P002,Amoxicilina 500mg,Antibiotico,D005,Laboratorio,89,6.03,Fornecedor A,Nampula,23/04/2024,18/01/2026,L3093,393,99,338.76,4055.38,23/04/2024,+258 84 7070468,Em Estoque
+02/04/2024,P002,Amoxicilina 500mg,Antibiotico,D003,Urgencia,59,3.04,Fornecedor D,Beira,04/03/2024,01/04/2025,L3538,89,47,417.69,6608.48,04/03/2024,+258 84 9833734,Em Estoque
+18/06/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D004,Farmacia,51,2.63,Fornecedor B,Beira,18/05/2024,28/04/2025,L8170,72,62,1013.48,6040.03,18/05/2024,+258 84 5780297,Perto de Vencer
+24/04/2024,P002,Amoxicilina 500mg,Antibiotico,D003,Urgencia,59,4.31,Fornecedor D,Pemba,31/03/2024,20/04/2026,L8564,443,46,812.35,6923.24,31/03/2024,+258 84 4350371,Perto de Vencer
+05/02/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D003,Urgencia,192,8.61,Fornecedor A,Maputo,10/01/2024,25/09/2024,L5670,92,30,600.22,1772.52,10/01/2024,+258 84 8339571,Em Estoque
+26/02/2024,P001,Paracetamol 500mg,Analgesico,D004,Farmacia,111,5.52,Fornecedor A,Beira,19/01/2024,16/08/2025,L7326,91,57,134.14,1846.35,19/01/2024,+258 84 6625238,Em Estoque
+05/02/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D002,Pediatria,124,6.54,Fornecedor D,Maputo,24/01/2024,23/05/2025,L1311,181,37,522.65,5650.49,24/01/2024,+258 84 8101036,Em Estoque
+14/03/2024,P001,Paracetamol 500mg,Analgesico,D001,Clinica Geral,117,6.75,Fornecedor B,Pemba,18/02/2024,15/07/2025,L2029,106,73,214.66,4711.85,18/02/2024,+258 84 3408819,Esgotado
+19/04/2024,P002,Amoxicilina 500mg,Antibiotico,D005,Laboratorio,57,6.98,Fornecedor D,Maputo,09/04/2024,12/10/2025,L9576,234,18,1085,8925.28,09/04/2024,+258 84 1341153,Esgotado
+30/04/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D003,Urgencia,101,8.1,Fornecedor A,Nampula,18/04/2024,27/11/2025,L4950,425,94,603.71,6841.66,18/04/2024,+258 84 3238241,Em Estoque
+31/03/2024,P002,Amoxicilina 500mg,Antibiotico,D004,Farmacia,171,2.64,Fornecedor D,Beira,16/02/2024,08/09/2025,L2033,416,68,214.82,4238.63,16/02/2024,+258 84 1703065,Esgotado
+20/03/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D004,Farmacia,19,7.78,Fornecedor C,Beira,07/02/2024,28/10/2025,L5687,232,16,463.5,3919.76,07/02/2024,+258 84 7711251,Perto de Vencer
+22/04/2024,P002,Amoxicilina 500mg,Antibiotico,D004,Farmacia,104,9.32,Fornecedor D,Nampula,19/03/2024,01/10/2025,L2353,422,64,341.28,2416.8,19/03/2024,+258 84 5928582,Esgotado
+27/01/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D003,Urgencia,164,7.46,Fornecedor D,Beira,12/01/2024,25/06/2025,L8272,229,67,452.48,4031.15,12/01/2024,+258 84 8297090,Esgotado
+12/06/2024,P001,Paracetamol 500mg,Analgesico,D004,Farmacia,141,8.21,Fornecedor C,Beira,13/04/2024,05/02/2025,L1510,123,87,212.74,1668.19,13/04/2024,+258 84 7145971,Esgotado
+08/04/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D002,Pediatria,104,4.35,Fornecedor D,Maputo,22/02/2024,07/11/2024,L3255,321,56,578.25,2084.26,22/02/2024,+258 84 2903351,Em Estoque
+17/02/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D005,Laboratorio,77,7.97,Fornecedor A,Pemba,07/01/2024,27/01/2026,L4515,363,46,490.28,4936.32,07/01/2024,+258 84 8584017,Em Estoque
+23/04/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D001,Clinica Geral,86,8.66,Fornecedor C,Beira,08/04/2024,12/09/2025,L6922,310,38,799.16,2036.15,08/04/2024,+258 84 9288312,Em Estoque
+02/04/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D005,Laboratorio,166,8.96,Fornecedor B,Maputo,17/02/2024,11/10/2025,L6067,253,71,864.28,5962.73,17/02/2024,+258 84 2237331,Em Estoque
+22/03/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D004,Farmacia,42,8.9,Fornecedor C,Beira,31/01/2024,02/12/2024,L3114,271,74,542.88,1818.51,31/01/2024,+258 84 3762487,Em Estoque
+23/03/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D005,Laboratorio,30,3.26,Fornecedor C,Nampula,28/01/2024,07/05/2025,L3050,370,48,342.4,2084.67,28/01/2024,+258 84 3586950,Em Estoque
+17/06/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D001,Clinica Geral,30,1.41,Fornecedor A,Nampula,29/04/2024,24/11/2025,L4453,442,83,1023.82,2823.41,29/04/2024,+258 84 5859883,Perto de Vencer
+18/03/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D003,Urgencia,28,7.2,Fornecedor D,Beira,07/02/2024,22/05/2025,L8202,262,71,476.48,1857.34,07/02/2024,+258 84 6357240,Perto de Vencer
+29/03/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D005,Laboratorio,91,3.18,Fornecedor A,Maputo,23/02/2024,05/02/2025,L5382,280,41,160.93,6161.48,23/02/2024,+258 84 8015136,Em Estoque
+10/02/2024,P002,Amoxicilina 500mg,Antibiotico,D002,Pediatria,141,5.2,Fornecedor D,Nampula,11/01/2024,24/06/2025,L9148,61,21,832.35,3147.56,11/01/2024,+258 84 6920597,Em Estoque
+13/01/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D004,Farmacia,147,1.07,Fornecedor C,Maputo,16/12/2023,29/11/2025,L8060,118,43,1126.08,966.73,16/12/2023,+258 84 1858283,Perto de Vencer
+23/05/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D003,Urgencia,108,5.54,Fornecedor A,Nampula,01/05/2024,25/11/2025,L2946,115,22,653.82,4051.79,01/05/2024,+258 84 7133857,Em Estoque
+20/02/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D005,Laboratorio,21,1.35,Fornecedor A,Nampula,03/01/2024,21/01/2026,L8761,315,68,568.16,1722.88,03/01/2024,+258 84 6344047,Em Estoque
+10/04/2024,P005,Ciprofloxacino 500mg,Antibacteriano,D003,Urgencia,191,6.07,Fornecedor D,Pemba,21/02/2024,09/08/2025,L1272,238,52,765.89,3007.74,21/02/2024,+258 84 1447065,Perto de Vencer
+01/05/2024,P001,Paracetamol 500mg,Analgesico,D005,Laboratorio,53,5.72,Fornecedor D,Pemba,05/04/2024,18/06/2025,L3421,470,97,143.82,7195.12,05/04/2024,+258 84 4200829,Em Estoque
+22/04/2024,P002,Amoxicilina 500mg,Antibiotico,D004,Farmacia,115,5.52,Fornecedor B,Pemba,23/03/2024,21/12/2025,L2020,411,27,521.63,6648.75,23/03/2024,+258 84 9025733,Perto de Vencer
+06/04/2024,P004,Ibuprofeno 200mg,Anti-inflamatorio,D005,Laboratorio,149,4.19,Fornecedor C,Nampula,07/03/2024,29/03/2025,L8932,148,41,728.76,5826.12,07/03/2024,+258 84 5993143,Esgotado
+29/06/2024,P003,Soro Fisiologico 0.9%,Solucao Injetavel,D004,Farmacia,153,9.4,Fornecedor C,Nampula,06/06/2024,10/05/2026,L5715,112,83,834.86,5872.51,06/06/2024,+258 84 3457461,Esgotado
